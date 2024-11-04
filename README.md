@@ -66,6 +66,16 @@ de usuario al recibir un feedback visual claro.
 ******
 [Reporte Sprint 2.pdf](https://github.com/user-attachments/files/17612730/Reporte.Sprint.2.pdf)
 ****
+**Documentcion Sprint 3**
+*****
+[Repositorio en GitHub 3.pdf](https://github.com/user-attachments/files/17620954/Repositorio.en.GitHub.3.pdf)
+*****
+[Reporte Técnico Sprint 3.pdf](https://github.com/user-attachments/files/17620953/Reporte.Tecnico.Sprint.3.pdf)
+*****
+[pruebas del diseño responsivo con Mobile-Friendly Test teléfono, tablet o laptop...pdf](https://github.com/user-attachments/files/17620952/pruebas.del.diseno.responsivo.con.Mobile-Friendly.Test.telefono.tablet.o.laptop.pdf)
+***
+[Backlog 3.pdf](https://github.com/user-attachments/files/17620951/Backlog.3.pdf)
+*****
 [Backlog Sprint 2.pdf](https://github.com/user-attachments/files/17612729/Backlog.Sprint.2.pdf)
 
 
