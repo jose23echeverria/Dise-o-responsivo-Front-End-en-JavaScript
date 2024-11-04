@@ -47,7 +47,7 @@ Cuando un usuario completa el formulario de suscripción, se muestra
 un mensaje de confirmación con SweetAlert2, mejorando la experiencia 
 de usuario al recibir un feedback visual claro.
 ****
-**Documentacion**
+**Documentacion Sprint 1**
 [roadmap sprint 1.pdf](https://github.com/user-attachments/files/17611161/roadmap.sprint.1.pdf)
 ***
 [reto1.pdf](https://github.com/user-attachments/files/17611160/reto1.pdf)
@@ -58,5 +58,15 @@ de usuario al recibir un feedback visual claro.
 *****
 [backlog s1.pdf](https://github.com/user-attachments/files/17611157/backlog.s1.pdf)
 ****
+**Documentacion Sprint 2**
+******
+[Roadmap Sprint 2.pdf](https://github.com/user-attachments/files/17612732/Roadmap.Sprint.2.pdf)
+****
+[Repositorio en GitHub 2.pdf](https://github.com/user-attachments/files/17612731/Repositorio.en.GitHub.2.pdf)
+******
+[Reporte Sprint 2.pdf](https://github.com/user-attachments/files/17612730/Reporte.Sprint.2.pdf)
+****
+[Backlog Sprint 2.pdf](https://github.com/user-attachments/files/17612729/Backlog.Sprint.2.pdf)
+
 
 
